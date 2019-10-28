@@ -1,0 +1,7 @@
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\bin\x86\Debug\PublicKeyCreator.exe.config
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\bin\x86\Debug\PublicKeyCreator.exe
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\bin\x86\Debug\PublicKeyCreator.pdb
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\bin\x86\Debug\ChilkatDotNet46.dll
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\obj\x86\Debug\PublicKeyCreator.csproj.CopyComplete
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\obj\x86\Debug\PublicKeyCreator.exe
+C:\Users\go4fa\source\repos\PublicKeyCreator\PublicKeyCreator\obj\x86\Debug\PublicKeyCreator.pdb
